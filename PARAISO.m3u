@@ -1,5 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1,UNITEL
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://estaticos-noticias.unitel.bo/news-portlet/getogimage/b3abcdb4-d145-4f2e-a5af-8c28046ae576.jpg",UNITEL
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9gC7SUzhAGBxPE1oqSubbJy-3hUne07eVpSjnqNhFjR)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
