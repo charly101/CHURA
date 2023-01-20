@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",RED UNO
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuuHooD1nzMHfvpF3H6rdnhyRAENmGlq-8wFToOuctm3)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",RED UNO
+https://r2---sn-xouxacv-88pe.gvt1.com/videoplayback/id/f5455843e380fe7c/itag/18/source/dclk_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1674276177/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,source/signature/0515072299E68F200513873EEDB12172B6954441.5D90A11F3109E2C2EEEC8F27F9231B679196380E/key/cms1/cms_redirect/yes/mh/4k/mip/181.115.129.23/mm/28/mn/sn-xouxacv-88pe/ms/nvh/mt/1674254180/mv/m/mvi/2/pl/25/file/file.mp4
+
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",RED UNO
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuuHooD1nzMHfvpF3H6rdnhyRAENmGlq-8wFToOuctm3)/dm/3/x825whp/d/live-0.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",RED UNO
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuuHooD1nzMHfvpF3H6rdnhyRAENmGlq-8wFToOuctm3)/dm/3/x825whp/d/live-0.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",RED UNO
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuuHooD1nzMHfvpF3H6rdnhyRAENmGlq-8wFToOuctm3)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
